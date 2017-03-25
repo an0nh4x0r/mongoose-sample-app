@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-sample-app",
+  "version": "1.0.0",
+  "description": "Sample app using mongoose.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an0nh4x0r/mongoose-sample-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an0nh4x0r/mongoose-sample-app/issues"
+  },
+  "homepage": "https://github.com/an0nh4x0r/mongoose-sample-app#readme",
+  "dependencies": {
+    "mongoose": "^4.9.1"
+  }
+}
